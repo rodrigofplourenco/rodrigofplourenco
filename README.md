@@ -15,7 +15,7 @@
          Web Langs: "Javascript, PHP, SQL",
           Services: "Apache",
               Tech: "Git, Docker, NodeJs",
-                SO: "Windows",
+                SO: "Pop OS (Linux)",
     };
 ```
 
