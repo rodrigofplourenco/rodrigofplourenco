@@ -10,11 +10,11 @@
 ```js
    //I used "const" because I'm constantly evolving
    const Rodrigo = {
-            Skills: "Front-End Developer, Back-End Developer",
-        Main Langs: "Javascript, Typescript, C#",
-         Web Langs: "Javascript, PHP, SQL",
-          Services: "Apache",
-              Tech: "Git, Docker, NodeJs",
+            Skills: "Front-End Developer, Back-End Developer, Mobile Developer",
+        Main Langs: "Javascript, Typescript, C#, Python, Dart",
+         Web Langs: "Javascript, SQL",
+          Services: "Apache, Nginx",
+              Tech: "Git, Docker, NodeJs, Flutter",
                 SO: "Pop OS (Linux)",
     };
 ```
