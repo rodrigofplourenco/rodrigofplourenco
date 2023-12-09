@@ -1,11 +1,4 @@
-<div align='center'>
-    <img src='https://github.com/rodrigofplourenco.png' height='128px' weidth'128px' target="_blank"><br>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2323B836&center=true&vCenter=true&multiline=true&width=600&height=65&lines=Hello+Friend!;My+name+is+Rodrigo%2C+and+I'm+a+Full-Stack+developer!">
-</div>
-
-</div>
-  
-  ### ♠️ About Me 
+### 🛠️ About Me 
  
 ```js
    //I used "const" because I'm constantly evolving
