@@ -12,10 +12,10 @@
    const Rodrigo = {
             Skills: "Front-End Developer, Back-End Developer, Mobile Developer",
         Main Langs: "Javascript, Typescript, C#, Python, Dart",
-         Web Langs: "Javascript, SQL",
+         Web Langs: "Javascript",
           Services: "Apache, Nginx",
-              Tech: "Git, Docker, NodeJs, Flutter",
-                SO: "Pop OS (Linux)",
+              Tech: "Git, Docker, NodeJs, Flutter, React",
+                SO: "Arch Linux",
     };
 ```
 
