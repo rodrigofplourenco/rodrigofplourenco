@@ -15,8 +15,6 @@
  ### 🛠️ GitHub Stats
 
 <div align="center" style="display: flex">
-  <a href="https://github.com/rodrigofplourenco">
-  <img height="200em" src="https://activity-graph.herokuapp.com/graph?username=rodrigofplourenco&theme=github&bg_color=20232a&hide_border=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigofplourenco&hide_border=1&theme=dracula&hide=issues&langs_count=5&custom_title=Top%20Languages"/>
 </div>
   
@@ -33,12 +31,13 @@
 ### 🛠️ Social Media
   
 <div> 
-  <a href="https://instagram.com/rodrigofplourenco" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/KhNtBPnbUr" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:rodrigofplourenco2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-   ### 🛠️ Commits
-  
-  ![Snake animation](https://github.com/rodrigofplourenco/rodrigofplourenco/blob/output/github-contribution-grid-snake.svg) 
-  
 </div>
+
+### 🛠️ Commits
+
+<div>
+ ![Snake animation](https://github.com/rodrigofplourenco/rodrigofplourenco/blob/output/github-contribution-grid-snake.svg) 
+</div>
+  
+
